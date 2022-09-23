@@ -9,8 +9,7 @@
 </head>
 
 <body>
-    <?php echo $Judul; ?>
-    <?php echo $Desk; ?>
+    <h1>Coba</h1>;
 </body>
 
 </html>
