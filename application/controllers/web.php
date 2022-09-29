@@ -9,11 +9,14 @@ class Web extends CI_Controller
     }
     public function index()
     {
-        $this->load->view('v_index');
+        $data['judul'] = " Tugas Pertemuan 3, Membuat Template Sederhana ";
+
+        $this->load->view('v_index', $data);
     }
     public function about()
     {
         $this->load->view('v_about');
     }
+ 
 
 }

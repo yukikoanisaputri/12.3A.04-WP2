@@ -13,7 +13,7 @@
         <header>
             <hgroup> 
                 <h1>Berita-Kodingan</h1>
-                <h2>Semua Berita Ngoding Ada Disini</h2>
+                <h2> <?php echo $judul ?> </h2>
             </hgroup>
             <nav>
                 <ul>
