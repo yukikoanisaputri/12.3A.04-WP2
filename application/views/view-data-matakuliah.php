@@ -25,7 +25,7 @@
                 </td>
             </tr>
             <tr>
-                <td>Nama Mtk</td>
+                <td>Nama MTK</td>
                 <td>:</td>
                 <td>
                     <?= $nama; ?>
